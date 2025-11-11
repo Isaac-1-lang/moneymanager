@@ -58,3 +58,4 @@ build/
 ### VS Code ###
 .vscode/
 >>>>>>> 16535de (New files are added)
+.env
