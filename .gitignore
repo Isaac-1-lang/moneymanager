@@ -56,6 +56,6 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
 >>>>>>> 16535de (New files are added)
-.env
+config.bat
+node_modules
